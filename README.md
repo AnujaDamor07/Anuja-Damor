@@ -13,7 +13,7 @@
 ## 🛠️ Skills & Tools
 - 🐍 **Languages:** Python, HTML, CSS  
 - 💻 **Technologies:** Kali Linux, CentOS, Windows Server, Networking  
-- 🔐 **Security Tools:** Wireshark, Burp Suite, Nmap, Metasploit, Nikto  
+- 🔐 **Security Tools:** Wireshark, Burp Suite, Nmap, Metasploit 
 
 ---
 
